@@ -1,0 +1,8 @@
+1: installer OpenCV
+https://qengineering.eu/install-opencv-4.5-on-raspberry-pi-4.html
+
+2 : installer matplotlib
+su do pip3 install matplotlib
+
+3 : Installer VS code sur le Pi 
+https://code.visualstudio.com/docs/setup/raspberry-pi
